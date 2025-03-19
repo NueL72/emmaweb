@@ -7,7 +7,8 @@
     "axe/name-role-value": [
       "default",
       {
-        "link-name": "off"
+        "link-name": "off",
+        "button-name": "off"
       }
     ],
     "axe/text-alternatives": [
@@ -49,6 +50,7 @@
           "color: color-mix(in srgb, var(--accent-color), transparent 25%)"
         ]
       }
-    ]
+    ],
+    "button-type": "off"
   }
 }
